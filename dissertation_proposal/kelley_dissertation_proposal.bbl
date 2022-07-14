@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{aleks}
+Balas and Kazachov.
+\newblock V-polyhedral disjunctive cuts.
+\newblock {\em N/A}, 2021.
+
+\bibitem{l2b}
+Lodi et. al.
+\newblock Learning to schedule heuristics in branch-and-bound.
+\newblock {\em ArXiv}, 2019.
+\newblock \href {https://doi.org/https://arxiv.org/abs/2103.10294}
+  {\path{doi:https://arxiv.org/abs/2103.10294}}.
+
+\bibitem{google}
+Nair et. al.
+\newblock Solving mixed integer programs using neural networks.
+\newblock {\em ArXiv}, 2020.
+\newblock \href {https://doi.org/https://arxiv.org/pdf/math/0411298v1.pdf}
+  {\path{doi:https://arxiv.org/pdf/math/0411298v1.pdf}}.
+
+\bibitem{vrp-bap}
+Feillet.
+\newblock A tutorial on column generation and branch-and-price for vehicle
+  routing problems.
+\newblock {\em Springer}, 2010.
+
+\bibitem{guz}
+Ralphs Guzelsoy.
+\newblock Duality for mixed-integer linear programs.
+\newblock {\em COR@L}, 2007.
+\newblock \href
+  {https://doi.org/https://www.researchgate.net/publication/228383307_Duality_for_mixed-integer_linear_programs}
+  {\path{doi:https://www.researchgate.net/publication/228383307_Duality_for_mixed-integer_linear_programs}}.
+
+\bibitem{ehsan}
+et.~al. Khodabandeh.
+\newblock Ch robinson uses heuristics to solve rich vehicle routing problems.
+\newblock {\em INFORMS Journal on Applied Analytics}, 2021.
+
+\bibitem{ws}
+Ralphs.
+\newblock Warm starting mixed integer programs.
+\newblock {\em COR@L}, 2006.
+\newblock \href
+  {https://doi.org/https://coral.ise.lehigh.edu/~ted/files/papers/DMII06.pdf}
+  {\path{doi:https://coral.ise.lehigh.edu/~ted/files/papers/DMII06.pdf}}.
+
+\end{thebibliography}
